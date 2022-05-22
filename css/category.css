@@ -39,7 +39,6 @@
 
 .four {
     width: 100%;
-    height: 1050px;
     padding: 0px 266px;
     box-sizing: border-box;
     margin-top: 20px;
@@ -58,26 +57,25 @@
 
 .e>li img {
     border-top-right-radius: 15px;
+    width: 220px;
+    height: 130px;
 }
 
 .e1 {
-    width: 220px;
-    height: 110px;
+    width: 200px;
+    height: 163px;
     padding-left: 10px;
 }
 
 .e1_1 {
-    font-size: 14px;
     height: 45px;
     overflow: hidden;
     word-break: break-all;
-}
-
-.e1_2 {
     color: #a3a3a3;
     display: block;
     font-size: 12px;
 }
+
 
 .e2 {
     width: 200px;
