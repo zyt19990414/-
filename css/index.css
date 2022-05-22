@@ -258,3 +258,22 @@
     padding-left: 24px;
     margin-top: 20px;
 }
+
+.e3_2 {
+    text-align: center;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    position: relative;
+    top: -91px;
+    display: none;
+}
+
+.e3_2_1 {
+    background: url(img/loading-icon.gif) no-repeat left center;
+    color: #fe5341;
+    padding-left: 24px;
+    margin-top: 20px;
+    position: relative;
+    top: 91px;
+}
