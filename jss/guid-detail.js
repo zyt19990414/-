@@ -17,7 +17,7 @@ function fx(dd){
     <div class="content-right1" onclick="fx(this)">
                    <img src="../css/img/shareh_yj1.png" alt="" srcset="">
                    <p>
-                      <a  href="javascript:void(0)">
+                      <a  class="redd" href="javascript:void(0)">
                            取消分享
                       </a>
                     </p>
