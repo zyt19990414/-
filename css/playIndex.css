@@ -1,0 +1,85 @@
+.box {
+    width: 100%;
+    background-color: #F7F7F7;
+    padding-top: 20px;
+    padding-bottom: 10px;
+}
+
+.f,
+.g {
+    width: 1120px;
+    height: 550px;
+    margin: 40px auto;
+    padding-top: 10px;
+    border: 1px solid #EBECEC;
+    border-radius: 10px;
+    background-color: #FFFFFF;
+}
+
+.f>p,
+.g>p {
+    padding-left: 20px;
+    font-size: 16px;
+    width: 67px;
+    height: 25px;
+    line-height: 25px;
+    border-left: 4px solid #FE5341;
+}
+
+
+.f1 {
+    list-style: none;
+    height: 340px;
+    border-bottom: 1px dashed #EBECEC;
+}
+
+.f1 li,
+.g1 li {
+    float: left;
+    margin-left: 50px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.f1 li a,
+.g1 li a {
+    color: #A3A3A3;
+    font-size: 15px;
+}
+
+.f1 li:hover a,
+.g1 li:hover a {
+    color: #FED1FF;
+}
+
+.f2 {
+    list-style: none;
+}
+
+.f2 a {
+
+    color: #A3A3A3;
+    font-size: 15px;
+}
+
+.f2 li:hover a {
+    color: #FED1FF;
+}
+
+.f2 li {
+    float: left;
+    width: 135px;
+    height: 25px;
+    margin-left: 45px;
+    margin-top: 20px;
+}
+
+.g1 {
+    list-style: none;
+    height: 170px;
+    border-bottom: 1px dashed #EBECEC;
+}
+
+.g {
+    height: 290px;
+}
