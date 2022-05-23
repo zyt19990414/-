@@ -71,4 +71,4 @@ e3.onclick = function () {
 var a2 = document.getElementsByClassName('a2')[0].children;
 // console.log(a2);
 a2[0].style['border-bottom'] = '2px solid rgb(238, 10, 10)';
-
+a2[0].style.color = 'rgb(238, 10, 10)';
