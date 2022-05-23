@@ -30,6 +30,9 @@ li{
     width: 100%;
     margin-top: 10px;
 }
+img:hover{
+    animation: frames 1.5s infinite ;
+}
 .header-nav{
     height: 68px;
     float: left;
@@ -40,9 +43,16 @@ li{
     margin-top: 30px;
 }
 .header-nav>ul>li>a{
+    color: black;
     font-size: 20px;
 }
-
+.on{
+    color: #fe5341 !important;
+}
+.header-nav ul li a:hover{
+    color: #fe5341;
+    transition: color 0.2s ease;
+}
 .header-right{ margin-top: 30px;
     float: right;
 }
@@ -167,4 +177,12 @@ li{
 }
 .er>p>a{
     color: #a3a3a3;
+}
+@keyframes frames {
+    0%,100%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0.6;
+    }
 }

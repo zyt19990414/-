@@ -1,0 +1,161 @@
+.content{
+    width: 100%;
+    height: 234px;
+}
+.content-box{
+    width: 100%;
+  
+}
+.content{
+    text-align: center;
+}
+.content-title{
+    height: 120px;
+    line-height: 120px;
+    
+}
+.content-title h1{
+    font-size: 40px;
+    font-weight: 400;
+}
+.content-title1{
+    width: 300px;
+    height: 54px;
+    margin: 0 auto;
+}
+.content-title1 a{
+    display: block;
+    width: 150px;
+    height: 54px;
+    line-height: 54px;
+    float: left;
+    font-size: 20px;
+    color: #a3a3a3;
+    margin: 0 auto;
+}
+.red{
+    color: #fe5431 !important;
+    border-bottom:4px solid #fe5431 ;
+}
+.black{
+    color: black !important;
+}
+.content-title2{
+    width: 100%;
+   height: 55px;
+    margin-top: 4px;
+    border-top: 1px solid #a3a3a3;
+}
+.content-title2 div{
+    width: 604px;
+    height: 55px;
+    margin: 0 auto;
+}
+.content-bigdiv{
+    width: 1036px;
+    height: 1120px;
+    margin: 0 auto;
+}
+.content-bigdiv1{
+    width: 1036px;
+    height: 840px;
+    margin: 0 auto;
+}
+
+.content-smdiv{
+    position: relative;
+    float: left;
+    width: 220px;
+    height: 275px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-right: 37px;
+}
+.sf{
+    position: absolute;
+    top: -1px;
+    right: 0px;
+    color: white;
+    background-color: #fe5431;
+    border: 0.5px solid transparent;
+    border-radius:0px 5px 0px 5px;
+    font-size: 14px;
+}
+.tysgx{
+    position: absolute;
+    top: -1px;
+    right: 0px;
+    color: #C4A96A ;
+    background-color: #fbf4cb;
+    border: 0.5px solid transparent;
+    border-radius:0px 5px 0px 5px;
+    font-size: 14px;
+}
+.ddiv  img{
+    width: 220px;
+    height: 130px;
+}
+.ddiv p{
+    text-align: center;
+}
+.name{
+    color: black;
+    font-size: 17px;
+    font-weight: bolder;
+}
+.sl{
+    width: 120px;
+    height: 22px;
+    margin: 8px auto;
+}
+.sl span{
+    display: block;
+    float: left;
+    width: 45px;
+    height: 22px;
+    color: #ccc;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+.sq span{
+    color: #fe5431; 
+}
+.sq{
+    color: black;
+}
+.bgsl{
+    margin-top: 8px;
+    font-size: 14px;
+    color: #ccc;
+}
+.bgsl1{
+    margin-top: 8px;
+    font-size: 14px;
+    color: rgb(77, 153, 77);
+}
+.bgsl2{
+    margin-top: 8px;
+    font-size: 14px;
+    color: #fe5431;
+}
+.xiala{
+    width: 120px;
+    margin: 40px auto;
+    text-align: center;
+    padding-left: 20px;
+    background: url(./img/more.png) no-repeat 4px 9px;
+    cursor: pointer;
+}
+.xiala a{
+    color: #fe5431;
+}
+.xiala1{
+    width: 120px;
+    margin: 40px auto;
+    text-align: center;
+    padding-left: 20px;
+}
+.xiala1 a{
+    color: #ccc;
+}
