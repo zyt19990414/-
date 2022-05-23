@@ -1,0 +1,138 @@
+.header_1 {
+    color: #333333;
+}
+
+.header_1:hover {
+    color: #FE5341;
+}
+
+.a {
+    width: 100%;
+    height: 120px;
+    text-align: center;
+    margin: 0 auto;
+    position: relative;
+}
+
+.a1 {
+    font-weight: normal;
+    margin: 20px 0;
+}
+
+.a2 {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    margin-bottom: 10px;
+}
+
+.a2 a {
+    display: inline-block;
+    width: 70px;
+    height: 40px;
+    font-size: 20px;
+    color: #A9A3A3;
+    /* border-bottom: 2px solid rgb(238, 10, 10); */
+}
+
+
+.four {
+    width: 100%;
+    padding: 0px 266px;
+    box-sizing: border-box;
+    margin-top: 20px;
+}
+
+
+.e>li {
+    width: 220px;
+    height: 220px;
+    border: 1px solid #E6E9E9;
+    border-radius: 15px;
+    float: left;
+    margin-right: 24px;
+    margin-bottom: 20px;
+}
+
+.e>li img {
+    border-top-right-radius: 15px;
+    width: 220px;
+    height: 130px;
+}
+
+.e1 {
+    width: 200px;
+    height: 163px;
+    padding-left: 10px;
+}
+
+.e1_1 {
+    height: 45px;
+    overflow: hidden;
+    word-break: break-all;
+    color: #a3a3a3;
+    display: block;
+    font-size: 12px;
+}
+
+
+.e2 {
+    width: 200px;
+    height: 49px;
+}
+
+.e2_1 {
+    color: #fe5341;
+    font-size: 14px;
+    float: left;
+}
+
+.e2_2 {
+    float: right;
+}
+
+.e2_2_1 {
+    padding-left: 15px;
+    box-sizing: border-box;
+    background: url(./img/zan.png)2px 4px no-repeat;
+}
+
+.e2_3_1 {
+    padding-left: 15px;
+    box-sizing: border-box;
+    background: url(./img/reply.png)2px 4px no-repeat;
+}
+
+.e3 {
+    text-align: center;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+}
+
+.e3_1 {
+    background: url(img/more.png) no-repeat left center;
+    color: #fe5341;
+    padding-left: 24px;
+    margin-top: 20px;
+}
+
+.e3_2 {
+    text-align: center;
+    font-size: 16px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    position: relative;
+    top: -91px;
+    display: none;
+}
+
+.e3_2_1 {
+    background: url(img/loading-icon.gif) no-repeat left center;
+    color: #fe5341;
+    padding-left: 24px;
+    margin-top: 20px;
+    position: relative;
+    top: 91px;
+}
